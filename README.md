@@ -25,7 +25,7 @@
 
 ---
 
-![Snake animation](https://github.com/matheuszlima/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/matheuszlima/matheuszlima/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
