@@ -25,10 +25,6 @@
 
 ---
 
-![Snake animation](https://github.com/matheuszlima/matheuszlima/blob/output/github-contribution-grid-snake.svg)
-
----
-
 #### Thank you for visiting my profile! Feel free to get in touch or explore my repositories.
 
 
