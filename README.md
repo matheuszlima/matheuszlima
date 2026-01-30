@@ -15,10 +15,10 @@
 ---
 
 ## My links:
-##### <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" height="15" weight="15"/> [in/matheuszlima](https://www.linkedin.com/in/matheusdelimasantos)
+#### <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" height="15" weight="15"/> [in/matheuszlima](https://www.linkedin.com/in/matheusdelimasantos)
 ---
 
-##### Thank you for visiting my profile! Feel free to get in touch or explore my repositories.
+#### Thank you for visiting my profile! Feel free to get in touch or explore my repositories.
 
 
 
