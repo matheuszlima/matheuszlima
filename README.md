@@ -3,7 +3,7 @@
 ---
 
 ## :mag_right: About me:
-### I am a Systems Analysis and Development student at Federal University of Technology - Paraná (UTFPR), Ponta Grossa, Brazil, currently focused on learning back-end development with Java. I am interested in APIs, databases, and building practical projects.
+#### I am a Systems Analysis and Development student at Federal University of Technology - Paraná (UTFPR), Ponta Grossa, Brazil, currently focused on learning back-end development with Java. I am interested in APIs, databases, and building practical projects.
 
 ---
 
