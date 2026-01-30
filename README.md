@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Matheus. Welcome to my Github profile!
+<h1 align="center">👋 Hello, I'm Matheus. Welcome to my Github profile! </h1>
 
 ---
 
@@ -16,7 +16,7 @@
 ---
 
 ## Interests:
-### [![My Skills](https://skillicons.dev/icons?i=postgres,hibernate,spring,docker,mongodb,js,angular)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=spring,postgres,hibernate,docker,mongodb,js,angular)](https://skillicons.dev)
 
 ---
 ## My links:
