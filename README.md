@@ -8,15 +8,16 @@
 ---
 
 ## :computer: Technologies and Languages:
-### [![My Technologies and Languages](https://skillicons.dev/icons?i=java,c,html,css)](https://skillicons.dev)
+### [![My Technologies and Languages](https://skillicons.dev/icons?i=java,postgres,c,html,css)](https://skillicons.dev)
+
+## :test_tube: Frameworks and Libraries
+### [![My Skills](https://skillicons.dev/icons?i=spring,jackson)](https://skillicons.dev)
 
 ## :toolbox: Development Tools:
 ### [![My Technologies and Languages](https://skillicons.dev/icons?i=vscode,git,github,eclipse,postman,figma,vercel)](https://skillicons.dev)
 
----
-
 ## :rocket: Interests:
-### [![My Skills](https://skillicons.dev/icons?i=spring,postgres,hibernate,docker,mongodb,js,angular)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=hibernate,docker,mongodb,js,angular)](https://skillicons.dev)
 
 ---
 
